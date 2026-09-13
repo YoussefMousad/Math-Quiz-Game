@@ -1,7 +1,7 @@
 # Math-Quiz-Game
 A interactive console-based Math Quiz Game written in C++ that generates arithmetic questions across various difficulty levels and mathematical operations.
 
-# Features
+## Features
 - Custom Game Rounds: Choose how many questions you want to solve in a single match.
 
 - Multiple Difficulty Levels:
@@ -21,12 +21,12 @@ A interactive console-based Math Quiz Game written in C++ that generates arithme
 
 - Game Summary: Detailed end-of-game performance stats displaying win/loss state based on total correct answers versus incorrect answers.
 
-# Requirements & Building
+## Requirements & Building
 - OS: Cross-platform (Windows / Linux / macOS) console supporting ANSI escape sequences.
 
 - Compiler: GCC / MinGW / Clang (C++11 or higher).
 
-# How to Play
+## How to Play
 - copy and paste the code in your IDE or editor.
 
 - run the code.
@@ -41,5 +41,9 @@ A interactive console-based Math Quiz Game written in C++ that generates arithme
 
 - Review your final results screen and decide if you want to play again.
 
-# Credits
-- Developed by Eng. Youssef Mousad.
+## Credits
+- Developed by **Eng.Youssef Mousad**
+
+## Contact
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/dev-youssef-mousad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-youssef-mousad)
